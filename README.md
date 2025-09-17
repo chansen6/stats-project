@@ -16,7 +16,7 @@ Python project that collects numbers from a user, calculates key statistics, and
 
 ## Example Output
 --- Stats Report ---
-Total: 150
+- Total: 150
 - Average: 30.0
 - Highest: 50
 - Lowest: 10
