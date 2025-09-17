@@ -13,3 +13,12 @@ Python project that collects numbers from a user, calculates key statistics, and
    ```bash
    git clone https://github.com/yourusername/stats-project.git
    cd stats-project
+
+## Example Output
+--- Stats Report ---
+Total: 150
+Average: 30.0
+Highest: 50
+Lowest: 10
+Variance: 200.0
+Standard Deviation: 14.14
